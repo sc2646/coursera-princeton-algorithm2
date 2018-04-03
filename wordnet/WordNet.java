@@ -1,4 +1,4 @@
-/**
+package wordnet; /**
  * User: nataliechen (nataliechen@coupang.com)
  * Date: 4/2/18
  * Time: 3:31 PM
