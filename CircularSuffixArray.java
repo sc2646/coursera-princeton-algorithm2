@@ -1,14 +1,6 @@
-import com.sun.xml.internal.xsom.impl.scd.Iterators;
-
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.List;
 
-/**
- * User: nataliechen (nataliechen@coupang.com)
- * Date: 4/17/18
- * Time: 5:08 PM
- */
 public class CircularSuffixArray {
     private Integer[] index;
     private String input;
