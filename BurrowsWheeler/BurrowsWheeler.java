@@ -3,11 +3,6 @@ package BurrowsWheeler;
 import edu.princeton.cs.algs4.BinaryStdIn;
 import edu.princeton.cs.algs4.BinaryStdOut;
 
-/**
- * User: nataliechen (nataliechen@coupang.com)
- * Date: 4/17/18
- * Time: 5:08 PM
- */
 public class BurrowsWheeler {
         private static final int R = 256;
 
